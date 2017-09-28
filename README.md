@@ -22,5 +22,5 @@ LoadModule=zbx_oracle.so
 
 Example:
 
-![macros](https://github.com/alexander-nesterov/zabbix_module_oracle/blob/dev/scr/macros.png)
+![macros](zabbix_module_oracle/scr/macros.PNG)
 
