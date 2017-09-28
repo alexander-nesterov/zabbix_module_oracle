@@ -20,3 +20,7 @@ LoadModulePath=${libdir}/modules
 LoadModule=zbx_oracle.so
 ```
 
+Example:
+
+![macros] (https://github.com/alexander-nesterov/zabbix_module_oracle/blob/dev/scr/macros.PNG)
+
