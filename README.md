@@ -22,5 +22,19 @@ LoadModule=zbx_oracle.so
 
 Example:
 
+1) You need to macros
+
 ![example_1](https://github.com/alexander-nesterov/zabbix_module_oracle/blob/dev/scr/macros.PNG?raw=true)
+
+2) You need to create item
+
+Type: Zabbix agent (active) or Zabbix agent
+
+Key: get_oracle_active_sessions[{$ORACLE_IP},{$ORACLE_PORT},{$ORACLE_SID},{$ORACLE_USER},{$ORACLE_PASSWORD}]
+
+![example_2](https://github.com/alexander-nesterov/zabbix_module_oracle/blob/dev/scr/item.PNG?raw=true)
+
+
+
+
 
