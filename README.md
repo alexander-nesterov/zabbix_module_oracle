@@ -22,7 +22,7 @@ LoadModule=zbx_oracle.so
 
 Example:
 
-1) You need to macros
+1) You need to create macros
 
 ![example_1](https://github.com/alexander-nesterov/zabbix_module_oracle/blob/dev/scr/macros.PNG?raw=true)
 
