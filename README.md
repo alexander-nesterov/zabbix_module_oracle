@@ -10,7 +10,7 @@ http://www.oracle.com/technetwork/database/features/oci/index-090945.html
 to build this module you need:
 
 1) Download source code of Zabbix
-2) Run the ./configure command (without arguments) in the root of Zabbix source tree
+2) Run the ```bash./configure``` command (without arguments) in the root of Zabbix source tree
 3) Run make
 4) Set load module in zabbix_agentd.conf
 
